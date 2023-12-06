@@ -1,0 +1,11 @@
+{
+    "name": "beckkyway/test",
+    "autoload": {
+        "psr-4": {
+            "Beckkyway\\Test\\": "src/"
+        }
+    },
+    "require": {
+        "phpmailer/phpmailer": "^6.9"
+    }
+}
